@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <link rel="stylesheet" type="text/css" href="../CSS/themosaicstyle.css">
+        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Font+Name">
+    </head>
+    
+    <body>
+        <div class="mosiac">
+            <div class="mainbox">
+              <!--   <div class="header1">
+                    <div class="emailbox">The Mosiac</div>
+                    <div class="phonebox"></div>
+                    <div class="blankbox"></div>
+                    <div class="searchbox"></div>
+                    <div class="sigin"></div>
+                    <div class="signup"></div>
+                </div>
+                <div class="header2">
+                    <div class="heading"></div>
+                    <div class="home"></div>
+                    <div class="pages"></div>
+                    <div class="portfolio"></div>
+                    <div class="blog"></div>
+                    <div class="shop"></div>
+                    <div class="element"></div>
+                </div>
+                <div class="header3">
+                    <div class="heading2"></div>
+                </div>
+                <div class="mainbody">
+                    <div class="description">
+                    </div>
+                    <div class="product">
+                        <div class="product1"></div>
+                        <div class="product2"></div>
+                        <div class="product3"></div>
+                    </div>
+                    <div class="stuff">
+                        <div class="stuff1"></div>
+                        <div class="stuff2"></div>
+                        <div class="stuff3"></div>
+                    </div>
+                </div>
+                <div class="footer">
+                    <div class="contact"></div>
+                    <div class="social"></div>
+                    <div class="subscribe"></div>
+                </div> -->
+            </div>
+        </div>
+    </body>
+
+</html>

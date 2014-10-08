@@ -1,0 +1,307 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.mosiac {
+	background:blue;
+	width:100%;
+	height:1444px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.mainbox {
+	background:yellow;
+	margin-left: auto;
+	margin-right:auto;
+	width:1066px;
+	height:1444px;
+}
+
+.header1 {
+	/*background:violet;*/
+	width:1066px;
+	height:28px;
+	/*display:table;
+	float:left;*/
+	outline:1px solid green;
+	
+}
+
+.emailbox {
+	background:green;
+	width:180px;
+	height:31px;
+	display:inline-block;
+	font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+	/*display:table-cell;
+	position:absolute;*/
+
+}
+
+.phonebox {
+	background:orange;
+
+	width:136px;
+	height:31px;
+	display:inline-block;
+	/*position:absolute;
+	display:table-cell;*/
+
+}
+.blankbox {
+	background:red;
+	width:282px;
+	height:31px;
+	display: inline-block;
+	/*position:absolute;
+	display:table-cell;*/
+
+}
+.searchbox {
+	background:rgb(175, 194, 34);
+	width:60px;
+	height:31px;
+	display: inline-block;
+	/*position:absolute;
+	display:table-cell;
+*/
+}
+
+.sigin {
+	background:yellow;
+	width:55px;
+	height:31px;
+	display: inline-block;
+	/*position:absolute;
+	display:table-cell;*/
+
+}
+
+.signup {
+	background:black;
+	width:60px;
+	height:31px;
+	display: inline-block;
+	/*position:absolute;
+	display:table-cell;
+*/
+
+}
+
+
+.header2 {
+	background:violet;
+	width:1066px;
+	height:60px;
+	/*display: inline-block;*/
+	outline: 1px solid rgb(20, 8, 8);
+}
+
+.heading {
+	background:red;
+	width:380px;
+	height:60px;
+	display: inline-block;
+}
+
+.home {
+	background:blue;
+	width:52px;
+	height:60px;
+	display: inline-block;
+}
+.pages {
+	background:green;
+	width:58px;
+	height:60px;
+	display: inline-block;
+}
+.portfolio {
+	background:black;
+	width:78px;
+	height:60px;
+	display: inline-block;
+}
+.blog {
+	background:white;
+	width:50px;
+	height:60px;
+	display: inline-block;
+}
+
+.shop {
+	background:green;
+	width:58px;
+	height:60px;
+	display: inline-block;
+}
+.element {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+
+
+
+
+.header3 {
+	background:green;
+	width:1066px;
+	height:240px;
+}
+
+.heading2 {
+	background-color: green;
+	width:73px;
+	height:40px;
+
+}
+.header4 {
+	background:purple;
+	width:1066px;
+	height:124px;
+	outline:1px solid black;
+}
+.description {
+	background:yellow;
+	width:793px;
+	height:67px;
+	
+}
+.product {
+	background:yellow;
+	width:1066px;
+	height:65px;
+	outline:1px solid green;
+}
+.productBox {
+	width:1066px;
+	height:264px;
+	outline:1px solid red;
+}
+.product1 {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+.product2 {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+.product3 {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+.feature {
+	width:1066px;
+	height:57px;
+	outline:1px solid blue;
+}
+.stuff {
+	background:yellow;
+	width:1066px;
+	height:307px;
+	outline:1px solid green;
+}
+.stuff1 {
+	background:orange;
+	width:793px;
+	height:146px;
+	isplay: inline-block;
+}
+.stuff2 {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+.stuff3 {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+.footer {
+	width: 1066px;
+	height: 147px;
+	margin-top: 151px;
+	outline: 1px solid green;
+}
+
+.contact {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+
+.social {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
+
+.subscribe {
+	background:yellow;
+	width:92px;
+	height:60px;
+	display: inline-block;
+}
